@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "EA79E3CF6463C79A3911CAC38142C019",
+  "keywordClasses": [
+    {
+      "name": "login.test",
+      "keywordMethods": [
+        {
+          "name": "userLogin",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

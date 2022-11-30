@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Image_div_health-record-1669379131956.PNG</name>
+   <tag></tag>
+   <elementGuidId>323c0d85-8faa-40ea-9a3e-02023e342ea4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Click to upload'])[1]/following::div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-upload-list-item.ant-upload-list-item-done.ant-upload-list-item-list-type-picture</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5bcbc3f7-7bc7-4f66-8b66-47e4e99ef5fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-upload-list-item ant-upload-list-item-done ant-upload-list-item-list-type-picture</value>
+      <webElementGuid>25af845e-3e80-403c-9dff-14a876e97e8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>health-record-1669379131956.PNG</value>
+      <webElementGuid>8fdca7ac-f479-4655-b43e-41e4ac9f1ad7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ant-scrolling-effect&quot;]/div[3]/div[@class=&quot;ant-modal-root&quot;]/div[@class=&quot;ant-modal-wrap&quot;]/div[@class=&quot;ant-modal addHealthRecord&quot;]/div[@class=&quot;ant-modal-content&quot;]/div[@class=&quot;ant-modal-body&quot;]/form[@class=&quot;ant-form ant-form-vertical ant-form-hide-required-mark&quot;]/div[@class=&quot;ant-form-item ant-form-item-has-success&quot;]/div[@class=&quot;ant-row ant-form-item-row&quot;]/div[@class=&quot;ant-col ant-form-item-control&quot;]/div[@class=&quot;ant-form-item-control-input&quot;]/div[@class=&quot;ant-form-item-control-input-content&quot;]/span[1]/div[@class=&quot;ant-upload-list ant-upload-list-picture&quot;]/div[@class=&quot;ant-upload-list-picture-container&quot;]/div[@class=&quot;ant-upload-list-item ant-upload-list-item-done ant-upload-list-item-list-type-picture&quot;]</value>
+      <webElementGuid>c3b20de5-d21d-40d7-9d8d-cc4c4465345f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click to upload'])[1]/following::div[3]</value>
+      <webElementGuid>d96de913-bc01-40f0-9c36-589ba8fa7fed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload File:'])[1]/following::div[7]</value>
+      <webElementGuid>4a19892e-a754-4f4e-8fe6-f4ece39d7758</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description:'])[1]/preceding::div[2]</value>
+      <webElementGuid>25ddf4b5-b64e-4ba2-9cb6-6f942514bf60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div[2]/div/div</value>
+      <webElementGuid>288b98b8-74ba-4a29-a6b1-1d1e3092b88f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'health-record-1669379131956.PNG' or . = 'health-record-1669379131956.PNG')]</value>
+      <webElementGuid>30920365-7308-4982-90ae-ea473ab20632</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

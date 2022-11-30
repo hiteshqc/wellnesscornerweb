@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Start Now_right-arrow</name>
+   <tag></tag>
+   <elementGuidId>85087be9-666e-4b6d-885e-36f6d0f3cccc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.right-arrow</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/div/div[2]/div/div[2]/button/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ede6ef96-cba0-4773-a90f-9c528ce2334e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>right-arrow</value>
+      <webElementGuid>c992acbe-53b5-4ce6-b41a-067e8bec487d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;template wellness-page&quot;]/div[@class=&quot;page-wrapper&quot;]/div[@class=&quot;wellness-page-top-section ask-doctor-section&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6&quot;]/button[@class=&quot;startnow-button m-0&quot;]/div[@class=&quot;right-arrow&quot;]</value>
+      <webElementGuid>e655a30d-ac5e-46ce-a198-3471b8775bb6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div/div[2]/div/div[2]/button/div</value>
+      <webElementGuid>29115a6d-a50b-4b91-b724-ad59809da448</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div</value>
+      <webElementGuid>1e9d38cd-ccaf-431d-99cb-fd75fbf1517d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

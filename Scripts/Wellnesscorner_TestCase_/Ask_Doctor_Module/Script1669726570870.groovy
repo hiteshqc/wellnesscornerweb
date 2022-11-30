@@ -25,5 +25,7 @@ WebUI.click(findTestObject('Wellnesscorner_07/Ask_A_Doctor/Slide_Arrow_Tab'))
 
 WebUI.back()
 
+WebUI.acceptAlert()
+
 WebUI.click(findTestObject('Wellnesscorner_07/My_Health_Benefits/DashBoard'))
 

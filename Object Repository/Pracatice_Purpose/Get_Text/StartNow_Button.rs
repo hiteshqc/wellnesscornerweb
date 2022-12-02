@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Slide_Arrow_Tab</name>
+   <name>StartNow_Button</name>
    <tag></tag>
-   <elementGuidId>2dca26cc-ca13-4394-8474-621eb61435ea</elementGuidId>
+   <elementGuidId>ebcccff6-1438-44d5-b840-fcf5acf892da</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
+         <key>XPATH</key>
+         <value>//button[text()=&quot;Start Now&quot;]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(//div[@class=&quot;right-arrow&quot;])</value>
+         <key>BASIC</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

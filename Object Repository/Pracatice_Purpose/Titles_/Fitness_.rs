@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Slide_Arrow_Tab</name>
+   <name>Fitness_</name>
    <tag></tag>
-   <elementGuidId>2dca26cc-ca13-4394-8474-621eb61435ea</elementGuidId>
+   <elementGuidId>40a8e21b-0808-44d3-9dc1-1b71f4bb954e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//div[@class=&quot;right-arrow&quot;])</value>
+         <value>//a[@href=&quot;/fitness&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

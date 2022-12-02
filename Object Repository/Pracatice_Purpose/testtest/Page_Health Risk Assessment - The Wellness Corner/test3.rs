@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Slide_Arrow_Tab</name>
+   <name>test3</name>
    <tag></tag>
-   <elementGuidId>2dca26cc-ca13-4394-8474-621eb61435ea</elementGuidId>
+   <elementGuidId>8e7590d0-e2fa-437b-b884-16ca4e663991</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
+         <key>XPATH</key>
+         <value>//span[contains(text(),'Next')]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(//div[@class=&quot;right-arrow&quot;])</value>
+         <key>BASIC</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

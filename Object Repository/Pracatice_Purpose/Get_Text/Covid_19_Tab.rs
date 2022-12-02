@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Slide_Arrow_Tab</name>
+   <name>Covid_19_Tab</name>
    <tag></tag>
-   <elementGuidId>2dca26cc-ca13-4394-8474-621eb61435ea</elementGuidId>
+   <elementGuidId>4be22bd5-309c-4a47-a377-b4d690128390</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
+         <key>XPATH</key>
+         <value>//a[text()=&quot;COVID-19&quot;]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(//div[@class=&quot;right-arrow&quot;])</value>
+         <key>BASIC</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

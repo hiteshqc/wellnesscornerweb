@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Slide_Arrow_Tab</name>
+   <name>Close_Window</name>
    <tag></tag>
-   <elementGuidId>2dca26cc-ca13-4394-8474-621eb61435ea</elementGuidId>
+   <elementGuidId>c527e904-5d53-445f-b795-764d409ee924</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
+         <key>XPATH</key>
+         <value>//div[@class=&quot;ns-dle8i-e-6 close-button&quot;]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(//div[@class=&quot;right-arrow&quot;])</value>
+         <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

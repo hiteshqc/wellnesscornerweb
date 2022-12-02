@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>test</name>
+   <name>New Test Suite_Fail</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,12 +10,12 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>73a58f2e-8556-4917-b868-635fafb719d8</testSuiteGuid>
+   <testSuiteGuid>6b26a826-1608-4e25-96f7-746458e0c29b</testSuiteGuid>
    <testCaseLink>
-      <guid>ec44da15-0656-47d3-98d5-7d5d6f4c5a82</guid>
+      <guid>20e447fe-b3a5-4624-a16f-93acf7ac95b8</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Wellnesscorner_TestCase_/Login/Login_Module</testCaseId>
+      <testCaseId>Test Cases/Wellnesscorner_TestCase_/Dashboard/Ask_Doctor_Module</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

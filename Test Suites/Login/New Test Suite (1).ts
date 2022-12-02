@@ -15,21 +15,21 @@
       <guid>71c1ae4c-fdcb-4bfc-a7ad-a403febb867e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Wellnesscorner_TestCase_/Login_Module</testCaseId>
+      <testCaseId>Test Cases/Wellnesscorner_TestCase_/Login/Login_Module</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>272f4831-b75e-4b23-bf1c-cf819e4df6b4</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Wellnesscorner_TestCase_/Wellness_Plans_Module</testCaseId>
+      <testCaseId>Test Cases/Wellnesscorner_TestCase_/Dashboard/Wellness_Plans_Module</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>62b97320-b57e-4b36-bdce-3e14806a5b57</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Wellnesscorner_TestCase_/Upcoming_Events_Module</testCaseId>
+      <testCaseId>Test Cases/Wellnesscorner_TestCase_/Dashboard/Upcoming_Events_Module</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
